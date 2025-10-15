@@ -18,5 +18,53 @@
   {
     "name": "bau_macc-pow-wof",
     "variants": [{ "name": "bau_macc-pow-wof", "specs": null }]
+  },
+  {
+    "name": "bau_macc-tra-green",
+    "variants": [{ "name": "bau_macc-tra-green", "specs": null }]
+  },
+  {
+    "name": "bau_macc-tra-green-bus_bev",
+    "variants": [{ "name": "bau_macc-tra-green-bus_bev", "specs": null }]
+  },
+  {
+    "name": "bau_macc-tra-green-car_bev",
+    "variants": [{ "name": "bau_macc-tra-green-car_bev", "specs": null }]
+  },
+  {
+    "name": "bau_macc-tra-green-car_phev",
+    "variants": [{ "name": "bau_macc-tra-green-car_phev", "specs": null }]
+  },
+  {
+    "name": "bau_macc-tra-green-truck_bev",
+    "variants": [{ "name": "bau_macc-tra-green-truck_bev", "specs": null }]
+  },
+  {
+    "name": "bau_macc-tra-green-truck_fcv",
+    "variants": [{ "name": "bau_macc-tra-green-truck_fcv", "specs": null }]
+  },
+  {
+    "name": "bau_macc-tra-green-truck_hev",
+    "variants": [{ "name": "bau_macc-tra-green-truck_hev", "specs": null }]
+  },
+  {
+    "name": "bau_macc-ind",
+    "variants": [{ "name": "bau_macc-ind", "specs": null }]
+  },
+  {
+    "name": "bau_macc-ind-elc",
+    "variants": [{ "name": "bau_macc-ind-elc", "specs": null }]
+  },
+  {
+    "name": "bau_macc-srv",
+    "variants": [{ "name": "bau_macc-srv", "specs": null }]
+  },
+  {
+    "name": "bau_macc-srv-HP",
+    "variants": [{ "name": "bau_macc-srv-HP", "specs": null }]
+  },
+  {
+    "name": "bau_macc-srv-DH",
+    "variants": [{ "name": "bau_macc-srv-DH", "specs": null }]
   }
 ]
