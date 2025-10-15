@@ -1,4 +1,7 @@
 {
-  "no_mitigation": "No Mitigation",
-  "another_scenario": "Another Scenario"
+  "bau_macc": "BaU",
+  "bau_macc-pow": "BaU power sector",
+  "bau_macc-pow-sol": "Solar PV",
+  "bau_macc-pow-won": "Wind onshore",
+  "bau_macc-pow-wof": "Wind offshore"
 }
