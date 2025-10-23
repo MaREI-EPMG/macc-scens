@@ -1,0 +1,18 @@
+{
+  "name": "bau_macc-rsd-RSD-DEEP",
+  "data": [
+    {
+      "seriesName": "TOTCO2",
+      "seriesValues": [
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

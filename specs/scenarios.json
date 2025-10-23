@@ -66,5 +66,29 @@
   {
     "name": "bau_macc-srv-DH",
     "variants": [{ "name": "bau_macc-srv-DH", "specs": null }]
+  },
+  {
+    "name": "bau_macc-rsd",
+    "variants": [{ "name": "bau_macc-rsd", "specs": null }]
+  },
+  {
+    "name": "bau_macc-rsd-RSD-DH",
+    "variants": [{ "name": "bau_macc-rsd-RSD-DH", "specs": null }]
+  },
+  {
+    "name": "bau_macc-rsd-RSD-SHALLOW",
+    "variants": [{ "name": "bau_macc-rsd-RSD-SHALLOW", "specs": null }]
+  },
+  {
+    "name": "bau_macc-rsd-RSD-DEEP",
+    "variants": [{ "name": "bau_bau_macc-rsd-RSD-DEEP", "specs": null }]
+  },
+  {
+    "name": "bau_macc-rsd-RSD-ATT-HP",
+    "variants": [{ "name": "bau_macc-rsd-RSD-ATT-HP", "specs": null }]
+  },
+  {
+    "name": "bau_macc-rsd-RSD-APT-HP",
+    "variants": [{ "name": "bau_macc-rsd-RSD-APT-HP", "specs": null }]
   }
 ]
