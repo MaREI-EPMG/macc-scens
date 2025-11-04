@@ -2,6 +2,23 @@
   "name": "bau_macc-rsd-RSD-ATT-HP",
   "data": [
     {
+      "seriesName": "R-RTFT-Det_G",
+      "seriesValues": [
+        [
+          2019,
+          0.0
+        ],
+        [
+          2020,
+          22.8770305342343
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
       "seriesName": "R-RTFT-Det_B3",
       "seriesValues": [
         [
@@ -39,15 +56,6 @@
     },
     {
       "seriesName": "R-RTFT-Det_F",
-      "seriesValues": [
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
-      "seriesName": "R-RTFT-Det_G",
       "seriesValues": [
         [
           2051,

@@ -1,16 +1,16 @@
 {
-  "name": "bau_macc-rsd",
+  "name": "bau_macc-rsd-RSD-ATT-HP",
   "data": [
     {
-      "seriesName": "R-RTFT-Det_E",
+      "seriesName": "R-RTFT-Att_G",
       "seriesValues": [
         [
           2019,
-          1.78849621028334e-06
+          5.3351484747977
         ],
         [
           2020,
-          11.9356485753894
+          10.0376316736892
         ],
         [
           2051,
@@ -19,41 +19,7 @@
       ]
     },
     {
-      "seriesName": "R-RTFT-Det_F",
-      "seriesValues": [
-        [
-          2019,
-          0.0
-        ],
-        [
-          2020,
-          12.6119599408473
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
-      "seriesName": "R-RTFT-Det_G",
-      "seriesValues": [
-        [
-          2019,
-          0.0
-        ],
-        [
-          2020,
-          22.8770304787664
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
-      "seriesName": "R-RTFT-Det_B3",
+      "seriesName": "R-RTFT-Att_B3",
       "seriesValues": [
         [
           2051,
@@ -62,7 +28,7 @@
       ]
     },
     {
-      "seriesName": "R-RTFT-Det_C",
+      "seriesName": "R-RTFT-Att_C",
       "seriesValues": [
         [
           2051,
@@ -71,7 +37,25 @@
       ]
     },
     {
-      "seriesName": "R-RTFT-Det_D",
+      "seriesName": "R-RTFT-Att_D",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_E",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_F",
       "seriesValues": [
         [
           2051,
