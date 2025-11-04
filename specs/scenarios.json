@@ -4,6 +4,10 @@
     "variants": [{ "name": "bau_macc", "specs": null }]
   },
   {
+    "name": "bau_macc-full",
+    "variants": [{ "name": "bau_macc", "specs": null }]
+  },
+  {
     "name": "bau_macc-pow",
     "variants": [{ "name": "bau_macc-pow", "specs": null }]
   },
