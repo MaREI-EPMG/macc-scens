@@ -2,49 +2,11 @@
   "name": "bau_macc-rsd-RSD-APT-HP",
   "data": [
     {
-      "seriesName": "R-RTFT-Att_E",
-      "seriesValues": [
-        [
-          2019,
-          24.9321451509228
-        ],
-        [
-          2020,
-          4.64836621302345
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
-      "seriesName": "R-RTFT-Att_F",
-      "seriesValues": [
-        [
-          2019,
-          12.3221007266958
-        ],
-        [
-          2020,
-          2.29734275441383
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
       "seriesName": "R-RTFT-Att_G",
       "seriesValues": [
         [
-          2019,
-          12.9570558514863
-        ],
-        [
           2020,
-          2.41572420434272
+          15.3727800199447
         ],
         [
           2051,
@@ -72,6 +34,24 @@
     },
     {
       "seriesName": "R-RTFT-Att_D",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_E",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_F",
       "seriesValues": [
         [
           2051,
