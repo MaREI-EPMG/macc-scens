@@ -2,49 +2,15 @@
   "name": "bau_macc-rsd",
   "data": [
     {
-      "seriesName": "R-RTFT-Att_E",
-      "seriesValues": [
-        [
-          2019,
-          24.9321451249091
-        ],
-        [
-          2020,
-          4.6483662353114
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
-      "seriesName": "R-RTFT-Att_F",
-      "seriesValues": [
-        [
-          2019,
-          11.1762210303309
-        ],
-        [
-          2020,
-          3.44322244772808
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
       "seriesName": "R-RTFT-Att_G",
       "seriesValues": [
         [
           2019,
-          12.1513650206243
+          0.0
         ],
         [
           2020,
-          3.2214150338903
+          15.3727800686419
         ],
         [
           2051,
@@ -72,6 +38,24 @@
     },
     {
       "seriesName": "R-RTFT-Att_D",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_E",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_F",
       "seriesValues": [
         [
           2051,
