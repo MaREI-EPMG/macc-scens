@@ -76,6 +76,10 @@
     "variants": [{ "name": "bau_macc-rsd", "specs": null }]
   },
   {
+    "name": "bau_macc-RFHP",
+    "variants": [{ "name": "bau_macc-RFHP", "specs": null }]
+  },
+  {
     "name": "bau_macc-rsd-RSD-DH",
     "variants": [{ "name": "bau_macc-rsd-RSD-DH", "specs": null }]
   },
